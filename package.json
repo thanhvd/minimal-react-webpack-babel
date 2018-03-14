@@ -18,7 +18,10 @@
     "url": "https://github.com/thanhvd/minimal-react-webpack-babel/issues"
   },
   "homepage": "https://github.com/thanhvd/minimal-react-webpack-babel#readme",
-  "dependencies": {},
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  },
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.4",
